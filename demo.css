@@ -1,0 +1,13 @@
+body{
+    background-size: cover;
+    background: url('funny.jpg') no-repeat;
+    background-position: revert ;
+
+}
+h1 {
+    text-align: center;
+    size: landscape;
+    color: aquamarine;
+    margin: 30px;
+}
+
